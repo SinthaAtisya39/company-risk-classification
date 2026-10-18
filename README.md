@@ -36,4 +36,4 @@ Beberapa algoritma klasifikasi yang dievaluasi dalam proyek ini meliputi:
 ## 🚀 Cara Menjalankan
 1. *Clone repository* ini ke komputer lokal.
 2. Pastikan *library* Python seperti `pandas`, `scikit-learn`, `matplotlib`, dan `seaborn` sudah terinstal.
-3. Buka dan jalankan sel di dalam file Jupyter Notebook yang tersedia untuk melihat alur eksplorasi data hingga prediksi.
+3. Buka dan jalankan sel di dalam file Jupyter Notebook atau Google Colab yang tersedia untuk melihat alur eksplorasi data hingga prediksi.
