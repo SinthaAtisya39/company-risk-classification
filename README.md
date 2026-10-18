@@ -12,6 +12,7 @@ Dataset yang digunakan berisi 7.610 perusahaan dan berasal dari Kaggle: [Busines
 ## Struktur Challenge
 
 Pengerjaan proyek ini terbagi ke dalam lima modul utama:
+
 *Challenge 1* - Data Exploration: Memuat dataset, mengevaluasi kualitas data (missing values dan duplikasi), serta membangun visualisasi data menggunakan Pandas, Matplotlib, dan Seaborn.   
 *Challenge 2* - Machine Learning: Merumuskan rekayasa variabel target dan melatih model klasifikasi (Scikit-learn) untuk mendeteksi risiko kebangkrutan perusahaan.   
 *Challenge 3* - Prediction: Menguji keandalan model final untuk melakukan prediksi pada data uji.   
